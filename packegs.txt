@@ -1,0 +1,18 @@
+**********************************
+
+npm install -g nodemon    (--save express)
+npm install ejs --save
+npm install express-ejs-layouts
+npm install body-parser
+npm install mongoose
+ npm install bluebird
+
+
+********* extantions ***********
+1-ejs  (reload after installed)
+
+
+*******************************
+
+// run 
+nodemon app.js
